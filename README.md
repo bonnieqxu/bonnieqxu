@@ -2,6 +2,8 @@
 <h2> Hi! 👋 </h2>
 
 [![visitors](https://visitor-badge.laobi.icu/badge?page_id=bonnieqxu.bonnieqxu)](https://github.com/bonnieqxu)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=bonnieqxu.bonnieqxu)
+
 <a href="mailto:bonnieoht@gmail.com">![bonnieoht@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>   <a href="https://www.linkedin.com/in/bonnie-xu-ba1964275/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
  
 <!-- ![Overall Stats](https://github-readme-stats.vercel.app/api?username=bonnieqxu&count_private=false&show_icons=true&hide=contribs) -->
