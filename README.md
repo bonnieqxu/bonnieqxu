@@ -1,4 +1,7 @@
 
+![Banner](https://raw.githubusercontent.com/bonnieqxu/bonnieqxu/main/repository/banner.jpg)
+
+
 <h2> Hi! 👋 </h2>
 
 
