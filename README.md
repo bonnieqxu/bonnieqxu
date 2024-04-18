@@ -1,7 +1,7 @@
 
 <h2> Hi! 👋 </h2>
 
-[![visitors](https://visitor-badge.laobi.icu/badge?page_id=bonnieqxu.visitor-badge)]
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=https://visitor-badge.laobi.icu/badge?page_id=bonnieqxu.visitor-badge)
 <a href="mailto:bonnieoht@gmail.com">![bonnieoht@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>   <a href="https://www.linkedin.com/in/bonnie-xu-ba1964275/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
  
 <!-- ![Overall Stats](https://github-readme-stats.vercel.app/api?username=bonnieqxu&count_private=false&show_icons=true&hide=contribs) -->
@@ -11,9 +11,9 @@
 
  <h2>👧🏻 I’m Bonnie!<h2>
 
- - 😄 I'm a dog lover.
- - 🌱 I was a dental hygienist for 12 years.
- - 👀 I’m interested in ALL aspects of Tech.
+- 😄 I'm a dog lover.
+- 🌱 I was a dental hygienist for 12 years.
+- 👀 I’m interested in ALL aspects of Tech.
 
 
  <h2>💼 My Skills</h2>
