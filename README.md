@@ -5,8 +5,6 @@
 
 <h1> Hi! 👋 </h1>
 
-<span style="font-size: 300px;"> Hi! 👋</span>
-
 
 ![Profile Views](https://komarev.com/ghpvc/?username=bonnieqxu)
 
