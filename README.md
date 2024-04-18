@@ -3,8 +3,8 @@
 ![Banner](./banner.jpg)
 
 
-<h1> Hi! 👋 </h1>
-<h1 style="font-size: 36px; text-align: center;">Hi! 👋</h1>
+<!-- <h1> Hi! 👋 </h1> -->
+<h1 style="font-size: 70px; text-align: center;">Hi! 👋</h1>
 
 
 
