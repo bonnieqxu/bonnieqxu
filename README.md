@@ -1,6 +1,6 @@
 
 
-![Banner](banner.jpg)
+![Banner](./banner.jpg)
 
 
 <h2> Hi! 👋 </h2>
