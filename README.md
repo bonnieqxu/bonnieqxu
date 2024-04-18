@@ -3,7 +3,9 @@
 ![Banner](./banner.jpg)
 
 
-<h2> Hi! 👋 </h2>
+<h1> Hi! 👋 </h1>
+<h1 style="font-size: 36px; text-align: center;">Hi! 👋</h1>
+
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=bonnieqxu)
