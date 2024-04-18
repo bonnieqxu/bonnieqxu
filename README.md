@@ -2,9 +2,7 @@
 <h2> Hi! 👋 </h2>
 
 
-![Visitors](https://komarev.com/ghpvc/?username=bonnieqxu)
-![Views](https://komarev.com/ghpvc/?username=bonnieqxu)
-
+![Profile Views](https://komarev.com/ghpvc/?username=bonnieqxu)
 
 <a href="mailto:bonnieoht@gmail.com">![bonnieoht@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>   <a href="https://www.linkedin.com/in/bonnie-xu-ba1964275/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
  
