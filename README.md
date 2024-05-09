@@ -23,7 +23,7 @@
 
  <h2>💼 My Skills</h2>
 
-- *Front End* - HTML | JavaScript | Jinja | Bootstrap CSS
+- *Front End* - HTML | CSS | JavaScript | Jinja |
 - *Back End* - Python | Flask
 - *Database* - MySQL | Excel
 - *Version Control* - Git | GitHub
@@ -34,11 +34,11 @@
 
  <h2>💻 I'm Currently Learning</h2>
 
- - ⚡ Flutter
  - 🖥️ C#
  - 🌐 .NET
- - 🚀 Node.js
  - ⚛️ React
+ - 🚀 Automated Testing
+ 
 
 
 
